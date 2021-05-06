@@ -2,7 +2,7 @@ img="";
 status="";
 objects=[];
 function preload(){
-    img=loadImage('fruit_basket.jpeg');
+    img=loadImage('dog_cat.jpg');
 }
 function setup(){
     canvas=createCanvas(600,425);
